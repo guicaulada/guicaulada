@@ -19,4 +19,6 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_PROFILE_VIEWS: False
       - run: |
-          echo ${{join(steps.waka-readme-stats.outputs.*, '\n')}} | grep -vzq "Exception Occurred" 
+          echo $LAST | grep -vzq "Exception Occurred"
+    env:
+      PROMPT_COMMAND: 'LAST="`cat /tmp/x`"; exec >/dev/tty; exec > >(tee /tmp/x)'
