@@ -19,4 +19,4 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_PROFILE_VIEWS: False
       - run: |
-          echo ${{join(steps.run_tests.outputs.*, '\n')}} | grep -vzq "Exception Occurred" 
+          echo ${{join(steps.waka-readme-stats.outputs.*, '\n')}} | grep -vzq "Exception Occurred" 
