@@ -2,7 +2,6 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
     - cron: '0 3 * * *'
   workflow_dispatch:
 jobs:
@@ -11,14 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@v4
-        id: waka-readme-stats
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: False
           SHOW_LINES_OF_CODE: True
           SHOW_PROFILE_VIEWS: False
-      - run: |
-          echo $LAST | grep -vzq "Exception Occurred"
-    env:
-      PROMPT_COMMAND: 'LAST="`cat /tmp/x`"; exec >/dev/tty; exec > >(tee /tmp/x)'
