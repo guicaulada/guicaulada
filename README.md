@@ -62,17 +62,16 @@ Sunday       38 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   99.86% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tests                    17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,5 +88,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022
+ Last Updated on 09/11/2022
 <!--END_SECTION:waka-->
