@@ -62,16 +62,16 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tests                    11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -88,5 +88,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2022
+ Last Updated on 19/11/2022
 <!--END_SECTION:waka-->
