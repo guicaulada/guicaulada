@@ -62,16 +62,16 @@ Sunday       34 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-grafana-enterprise       24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,5 +88,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2022
+ Last Updated on 31/12/2022
 <!--END_SECTION:waka-->
