@@ -23,7 +23,7 @@ You can check what I've been working on live on my public dashboard:
 
 **🐱 My Github Data** 
 
-> 🏆 573 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -88,5 +88,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022
+ Last Updated on 01/01/2023
 <!--END_SECTION:waka-->
