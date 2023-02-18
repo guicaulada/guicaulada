@@ -61,18 +61,16 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 35 mins       ███████████████████████░░   92.66% 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-grafana-enterprise       2 hrs 3 mins        ██████████████████░░░░░░░   73.76% 
-grafana                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   26.24%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,5 +87,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2023
+ Last Updated on 18/02/2023
 <!--END_SECTION:waka-->
