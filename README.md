@@ -61,16 +61,16 @@ Sunday       56 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Lua                      12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WoWExporter              12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,5 +87,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2023
+ Last Updated on 13/04/2023
 <!--END_SECTION:waka-->
