@@ -22,7 +22,7 @@ You can check what I've been working on live on my [public dashboard](https://gu
 
 **🐱 My Github Data** 
 
-> 🏆 441 Contributions in the Year 2023
+> 🏆 442 Contributions in the Year 2023
  > 
 > 📦 1.5 MB Used in Github's Storage 
  > 
@@ -61,16 +61,20 @@ Sunday       57 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      4 hrs 15 mins       ███████████████████████░░   95.46% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
+TeX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WoWExporter              4 hrs 27 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +91,5 @@ C#                       6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2023
+ Last Updated on 18/04/2023
 <!--END_SECTION:waka-->
