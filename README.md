@@ -24,7 +24,7 @@ Feel free to add me on Discord @sighmir for questions regarding programming or o
 
 **🐱 My Github Data** 
 
-> 🏆 1,260 Contributions in the Year 2023
+> 🏆 1,261 Contributions in the Year 2023
  > 
 > 📦 2.2 MB Used in Github's Storage 
  > 
@@ -63,16 +63,18 @@ Sunday       81 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     4 mins              ████████████████████████░   96.18% 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+grafana-ci-sandbox       4 mins              ████████████████████████░   96.18% 
+grafana-build            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +91,5 @@ Lua                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2023
+ Last Updated on 29/11/2023
 <!--END_SECTION:waka-->
