@@ -20,7 +20,7 @@ You can check what I've been working on live on my [public dashboard](https://gu
 Feel free to add me on Discord @sighmir for questions regarding programming or one of my projects!
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -96,5 +96,5 @@ Lua                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023
+ Last Updated on 04/12/2023
 <!--END_SECTION:waka-->
