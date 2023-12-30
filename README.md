@@ -20,7 +20,7 @@ You can check what I've been working on live on my [public dashboard](https://gu
 Feel free to add me on Discord @sighmir for questions regarding programming or one of my projects!
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -63,17 +63,16 @@ Sunday       81 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     0 secs              ███████████████████████░░   93.11% 
-Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.89%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wowtail                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +89,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2023
+ Last Updated on 30/12/2023
 <!--END_SECTION:waka-->
