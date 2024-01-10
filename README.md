@@ -24,7 +24,7 @@ Feel free to add me on Discord @sighmir for questions regarding programming or o
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 📦 2.6 MB Used in Github's Storage 
  > 
@@ -63,16 +63,21 @@ Sunday       81 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                58 mins             ██████████████░░░░░░░░░░░   56.29% 
+YAML                     40 mins             █████████░░░░░░░░░░░░░░░░   39.13% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 43 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+deployment_tools         1 hr 2 mins         ███████████████░░░░░░░░░░   60.33% 
+grafana-ci-sandbox       41 mins             ██████████░░░░░░░░░░░░░░░   39.67%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 43 mins        █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +94,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2024
+ Last Updated on 10/01/2024
 <!--END_SECTION:waka-->
