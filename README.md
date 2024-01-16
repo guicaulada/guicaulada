@@ -24,7 +24,7 @@ Feel free to add me on Discord @sighmir for questions regarding programming or o
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 3 Contributions in the Year 2024
  > 
 > 📦 2.6 MB Used in Github's Storage 
  > 
@@ -96,5 +96,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2024
+ Last Updated on 16/01/2024
 <!--END_SECTION:waka-->
