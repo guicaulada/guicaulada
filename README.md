@@ -20,11 +20,11 @@ You can check what I've been working on live on my [public dashboard](https://gu
 Feel free to add me on Discord @sighmir for questions regarding programming or one of my projects!
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 10 Contributions in the Year 2024
+> 🏆 18 Contributions in the Year 2024
  > 
 > 📦 2.6 MB Used in Github's Storage 
  > 
@@ -46,8 +46,8 @@ Feel free to add me on Discord @sighmir for questions regarding programming or o
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       285 commits    ██████░░░░░░░░░░░░░░░░░░░   26.27% 
-Tuesday      205 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+Monday       287 commits    ██████░░░░░░░░░░░░░░░░░░░   26.45% 
+Tuesday      203 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
 Wednesday    234 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57% 
 Thursday     140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
 Friday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
@@ -94,5 +94,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2024
+ Last Updated on 06/02/2024
 <!--END_SECTION:waka-->
