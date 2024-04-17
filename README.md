@@ -1,100 +1,42 @@
-### Hi there 👋
+# Hello, I'm Gui! 👋
 
-<!--
-**guicaulada/guicaulada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Software Engineer specializing in cloud solutions across AWS, GCP, and Microsoft Azure. With a knack for real-time data analysis, machine learning, and robust software development, I embrace every challenge and view failure as a stepping stone to greater knowledge.
 
-Here are some ideas to get you started:
+Currently, I am deeply immersed in expanding my horizons in entrepreneurship, product design, quantum programming, and more, while also honing my expertise in cybersecurity and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here on GitHub, you'll find a range of projects showcasing my journey through cloud computing, innovative software solutions, and beyond. Dive into my repositories to see how I apply a diverse array of technologies to solve complex problems!
 
-You can check what I've been working on live on my [public dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab)!
+### 💬 Let's Chat on Discord
 
-Feel free to add me on Discord @sighmir for questions regarding programming or one of my projects!
+For questions about programming or any of my projects, feel free to contact me on Discord: `sighmir`.
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.4%20million%20lines%20of%20code-blue)
+### 🛠️ Languages and Tools:
 
-**🐱 My Github Data** 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> 🏆 98 Contributions in the Year 2024
- > 
-> 📦 3.4 MB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 75 Public Repositories 
- > 
-> 🔑 42 Private Repositories  
- > 
-**I'm an Early 🐤** 
+### 📊 Stats:
 
-```text
-🌞 Morning    180 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-🌆 Daytime    456 commits    ███████████░░░░░░░░░░░░░░   45.92% 
-🌃 Evening    244 commits    ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-🌙 Night      113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.38%
+Explore my live coding activities and project progress through my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), created using [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
 
-```
-📅 **I'm Most Productive on Monday** 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guicaulada&show_icons=true&theme=transparent&show=reviews&include_all_commits=true&custom_title=GitHub%20Stats)
 
-```text
-Monday       260 commits    ██████░░░░░░░░░░░░░░░░░░░   26.18% 
-Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
-Wednesday    192 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
-Thursday     133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Friday       105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-Saturday     39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-Sunday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26%
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guicaulada&layout=compact&theme=transparent)
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Bash                     4 hrs 9 mins        ████████████████░░░░░░░░░   64.23% 
-HCL                      1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67% 
-PowerShell               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Terraform                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-
-🔥 Editors: 
-VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-runner-images            6 hrs 14 mins       ████████████████████████░   96.67% 
-deployment_tools         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
-World of Warcraft        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
-
-💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   99.5% 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.65% 
-Go                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Lua                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
-
-```
-
-
-
- Last Updated on 28/03/2024
-<!--END_SECTION:waka-->
+![Profile views](https://komarev.com/ghpvc/?username=guicaulada&abbreviated=true)
