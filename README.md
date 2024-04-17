@@ -10,7 +10,7 @@ Here on GitHub, you'll find a range of projects showcasing my journey through cl
 
 For questions about programming or any of my projects, feel free to contact me on Discord: `sighmir`.
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -31,7 +31,7 @@ For questions about programming or any of my projects, feel free to contact me o
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Stats:
+### 📊 Stats
 
 Explore my live coding activities and project progress through my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), created using [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
 
