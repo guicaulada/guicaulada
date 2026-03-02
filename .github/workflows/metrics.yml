@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: wakatime
-          options: username=guicaulada&layout=compact&theme=transparent&hide_border=true&api_key=${{ secrets.WAKATIME_API_KEY }}
+          options: username=guicaulada&layout=compact&theme=transparent&hide_border=true&langs_count=50&api_key=${{ secrets.WAKATIME_API_KEY }}
           path: cards/wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
