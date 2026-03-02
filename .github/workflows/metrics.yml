@@ -1,6 +1,8 @@
 name: Metrics
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -19,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats&hide_border=true
           path: cards/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Languages card
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
@@ -27,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&langs_count=12&hide=jupyter%20notebook,html&hide_border=true
           path: cards/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Commit cards
         run: |
