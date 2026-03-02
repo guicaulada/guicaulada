@@ -17,7 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&show=reviews&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats&hide_border=true
           path: cards/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&langs_count=12&hide=jupyter%20notebook,html
+          options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&langs_count=12&hide=jupyter%20notebook,html&hide_border=true
           path: cards/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

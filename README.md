@@ -28,16 +28,10 @@ I'm endlessly curious and always picking up something new. Lately that means div
 
 ### 📊 Stats
 
-Explore my live coding activities and project progress through my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), created using [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
+<img src="./cards/stats.svg" alt="GitHub Stats" /><img src="./cards/top-langs.svg" alt="Top Languages" />
 
-<p align="center">
-  <img src="./cards/stats.svg" alt="GitHub Stats" />
-  <br />
-  <img src="./cards/top-langs.svg" alt="Top Languages" />
-</p>
+Explore my live coding activities on my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), built with [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
 
 ### 💬 Let's Chat on Discord
 
 For questions about programming or any of my projects, feel free to contact me on Discord: `sighmir`.
-
-![Profile views](https://komarev.com/ghpvc/?username=guicaulada&abbreviated=true)
