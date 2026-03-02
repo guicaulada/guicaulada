@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Guilherme Caulada's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 335, Total Commits  : 14005, Total PRs: 249, Total PRs Reviewed: 181, Total Issues: 38, Contributed to (last year): 14</desc>
+        <title id="titleId">GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 335, Total Commits  : 14006, Total PRs: 249, Total PRs Reviewed: 181, Total Issues: 38, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 21.04533150091267;
+        stroke-dashoffset: 21.045329735531563;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Guilherme Caulada's GitHub Stats</text>
+      >GitHub Stats</text>
     </g>
       </g>
     
