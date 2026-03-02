@@ -30,7 +30,7 @@ I'm endlessly curious and always picking up something new. Lately that means div
 
 ![GitHub Stats](./cards/stats.svg)
 
-![Top Languages](./cards/top-langs.svg)
+![WakaTime Stats](./cards/wakatime.svg)
 
 Explore my live coding activities on my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), built with [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
 
