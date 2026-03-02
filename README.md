@@ -1,16 +1,16 @@
-# Hello, I'm Gui! 👋
+# Hey, I'm Gui 👋
 
-I'm a software engineer who thrives on building reliable systems at scale. My day-to-day revolves around cloud infrastructure, platform engineering, and finding elegant solutions to gnarly distributed systems problems. I enjoy the full spectrum — from writing Go services to wiring up Terraform and Kubernetes, to crafting developer tools that make teams more productive.
+Software engineer working on cloud infrastructure and platform engineering. I spend most of my time writing Go services, setting up Terraform and Kubernetes, and building internal tools. Distributed systems problems are my favorite kind.
 
-I'm endlessly curious and always picking up something new. Lately that means diving deep into AI-augmented engineering workflows and agentic systems, exploring how LLMs can reshape the way we build software.
+Lately I've been getting into AI-augmented development, mostly agentic systems and figuring out where LLMs actually help in day-to-day engineering work.
 
-### 🎯 Current Focus
+### What I'm working on
 
 - Cloud infrastructure & BYOC at scale
 - AI-augmented engineering workflows
 - Agentic engineering & prompt engineering
 
-### 🛠️ Languages and Tools
+### Languages and tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,14 +26,14 @@ I'm endlessly curious and always picking up something new. Lately that means div
   </a>
 </p>
 
-### 📊 Stats
+### Stats
 
 ![GitHub Stats](./cards/stats.svg)
 
 ![WakaTime Stats](./cards/wakatime.svg)
 
-Explore my live coding activities on my [Public Grafana Dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab), built with [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
+I also have a [public Grafana dashboard](https://guicaulada.grafana.net/public-dashboards/7b7f644500ec4e6cb5d7a4e7b5ed0dab) tracking my coding activity, built with [vscode-exporter](https://github.com/guicaulada/vscode-exporter).
 
-### 💬 Let's Chat on Discord
+### Discord
 
-For questions about programming or any of my projects, feel free to contact me on Discord: `sighmir`.
+Questions about my projects or programming in general? Find me on Discord: `sighmir`.
