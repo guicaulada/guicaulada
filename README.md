@@ -14,15 +14,19 @@ Lately I've been getting into AI-augmented development, mostly agentic systems a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,py,rust,cs,ruby,java,lua&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=go,ts,js,py,rust,c,cpp,cs,ruby,java,elixir,lua,zig&theme=dark" alt="Languages" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux,bash&theme=dark" alt="Infrastructure and Cloud" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux,bash,nginx,gitlab,cloudflare,vercel&theme=dark" alt="Infrastructure and Cloud" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,prometheus,react,nextjs,graphql,elasticsearch,githubactions,nodejs,git&theme=dark" alt="Tools and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,dynamodb,mysql,sqlite,cassandra,kafka,rabbitmq,elasticsearch,graphql,supabase,firebase&theme=dark" alt="Data and Messaging" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,nodejs,prisma,sequelize,grafana,prometheus,githubactions,git,neovim,vscode&theme=dark" alt="Tools and Frameworks" />
   </a>
 </p>
 
