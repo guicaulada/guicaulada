@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="101.277"
+            width="101.23049999999999"
             height="8"
             fill="#00ADD8"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="101.277"
+            x="101.23049999999999"
             y="0"
             width="59.055"
             height="8"
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="160.332"
+            x="160.28549999999998"
             y="0"
-            width="53.475"
+            width="53.568000000000005"
             height="8"
             fill="#858585"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="213.807"
+            x="213.8535"
             y="0"
             width="43.617000000000004"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.424"
+            x="257.4705"
             y="0"
             width="25.11"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="282.534"
+            x="282.58050000000003"
             y="0"
             width="24.691499999999998"
             height="8"
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="307.2255"
+            x="307.27200000000005"
             y="0"
-            width="23.2035"
+            width="23.157000000000004"
             height="8"
             fill="#858585"
           />
@@ -642,7 +642,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 250 hrs 45 mins
+        Other - 251 hrs 11 mins
       </text>
     </g>
   
@@ -656,14 +656,14 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 117 hrs 39 mins
+        Markdown - 117 hrs 45 mins
       </text>
     </g>
   
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Terraform - 115 hrs 50 mins
+        Terraform - 115 hrs 54 mins
       </text>
     </g>
   
