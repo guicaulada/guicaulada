@@ -649,7 +649,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 216 hrs 24 mins
+        YAML - 216 hrs 31 mins
       </text>
     </g>
   
